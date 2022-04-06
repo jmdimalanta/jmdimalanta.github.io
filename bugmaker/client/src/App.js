@@ -4,6 +4,7 @@ import NewBug from './components/NewBug';
 import OneBug from './components/OneBug';
 import EditBug from './components/EditBug';
 import {Router} from '@reach/router';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (

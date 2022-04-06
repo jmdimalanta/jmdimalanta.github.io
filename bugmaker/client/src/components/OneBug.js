@@ -5,7 +5,11 @@ const OneBug = (props) =>{
 
     return(
         <div>
-            <Header />
+            <Header 
+                titleText={"BugMaker"}
+                link= {"/"}
+                linkText= {"Home"}
+            />
         </div>
     )
 }
